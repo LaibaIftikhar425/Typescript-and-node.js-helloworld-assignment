@@ -1,0 +1,12 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "In this typescript file we solved helloworld assignment of Governor Sindh IT Initiative",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Laiba Iftikhar (Roll no: 00048112)",
+  "license": "ISC"
+}
